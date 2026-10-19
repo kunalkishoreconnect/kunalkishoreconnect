@@ -1,16 +1,20 @@
-## Hi there 👋
+Kunal Kishore — Product Management Portfolio
+MBA candidate at IIM Kashipur exploring product management through hands-on projects in seller experience, product analytics, and logistics.
 
-<!--
-**kunalkishoreconnect/kunalkishoreconnect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. Seller Support Copilot
+Retrieval-based support prototype with 46 hypothetical FAQs, source references, rule-based escalation, and a 49-question evaluation dataset.
 
-Here are some ideas to get you started:
+Live Demo: add your actual Streamlit URL
+Code & Documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. Seller Onboarding Analytics
+SQL analysis of 7,444 synthetic events across 3,000 sellers, with an interactive funnel dashboard and a proposed A/B experiment.
+
+Live Demo: add your actual Streamlit URL
+Code & Documentation
+
+3. Shipment Exception Manager
+Workflow prototype for 120 synthetic shipments, featuring exception prioritization, case ownership, resolution tracking, and product requirements.
+
+Live Demo: add your actual Streamlit URL
+Code & Documentation
