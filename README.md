@@ -54,7 +54,7 @@ An operational workflow prototype that helps sellers identify shipment exception
 
 Tools: Python, Streamlit, Pandas, Unit Testing
 
-[Live Demo](https://github.com/kunalkishoreconnect/shipment-exception-manager)
+[Live Demo](https://shipment-exception-manager-lwncapygspinjwysgklztb.streamlit.app/)
 
 
 [View Code & Documentation](https://github.com/kunalkishoreconnect/shipment-exception-manager)
